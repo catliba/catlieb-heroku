@@ -21,6 +21,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
+    "strapi-provider-upload-cloudinary": "^3.6.11",
     "styled-components": "5.3.3"
   },
   "author": {
@@ -30,6 +31,7 @@
     "uuid": "0da9c86b-f0a6-4a94-8bd6-3220fd7570e4"
   },
   "engines": {
-    "node": "^18.17.0 || >=20.5.0"  },
+    "node": "^18.17.0 || >=20.5.0"
+  },
   "license": "MIT"
 }
